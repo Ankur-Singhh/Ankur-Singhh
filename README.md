@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankur-Singhh
 - 👀 I’m interested in Cricket, Swimming and Video Games
-- 🌱 I’m currently learning Backend Developing(Django Framework)
+- 🌱 I’m currently learning Backend Developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email, LinkedIn
 - 😄 Pronouns: He/Him
